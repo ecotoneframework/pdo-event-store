@@ -1,5 +1,5 @@
 {
-    "name": "prooph/pdo-event-store",
+    "name": "ecotone/prooph-pdo-event-store",
     "description": "Prooph PDO EventStore",
     "homepage": "http://getprooph.org/",
     "license": "BSD-3-Clause",
@@ -16,7 +16,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": "^7.1",
+        "php": ">=7.4",
         "ext-pdo": "*",
         "prooph/event-store": "^7.5.3"
     },
